@@ -60,7 +60,7 @@ header > p {
     padding-right: 10px;
     padding-left: 10px;
     text-align: center;
-     margin: auto;
+     padding: 30px;
      text-shadow: 10px 5px 10px rgba(0, 0, 0, 0.5);
 
 }
